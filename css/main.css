@@ -444,7 +444,9 @@ main {
         height: 29px;
         background-position: center;
         -webkit-background-size: contain;
+
         background-size: contain;
+        background-repeat: no-repeat;
         display: block;
         position: absolute;
         left: 0; }
